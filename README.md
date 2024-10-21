@@ -1,7 +1,5 @@
 # Acebook
 
-## Table of Contents
-
 - [Project Description](#project-description)
 - [Preview](#preview)
 - [Tech stack](#features)
