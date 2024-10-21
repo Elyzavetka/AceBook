@@ -10,7 +10,7 @@ A Facebook clone featuring core functionalities such as news feed, likes, commen
 ## Preview
 ## Screenshots
 
-<img src="https://github.com/.../.png" alt="Cover Image" style="border: 2px solid #ccc; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+<img src="[https://github.com/.../.png](https://github.com/Elyzavetka/AceBook/blob/main/public/images/acebook.png)" alt="Cover Image" style="border: 2px solid #ccc; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
 
 ![cover image](https://github.com/Elyzavetka/AceBook/blob/main/public/images/acebook.png)
 
